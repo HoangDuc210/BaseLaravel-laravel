@@ -1,5 +1,5 @@
 {
-    "name": "vendor/baseservice-duc-hoang-210",
+    "name": "baseservice-duc-hoang-210",
     "description": "BaseService",
     "type": "library",
     "autoload": {
