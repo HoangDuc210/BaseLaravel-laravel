@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\MyComposerPackage;
+namespace BaseService;
 
 class BaseService
 {
