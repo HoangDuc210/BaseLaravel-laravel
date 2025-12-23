@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Traits;
+namespace Models\Traits;
 
 use Illuminate\Support\Facades\Auth;
 

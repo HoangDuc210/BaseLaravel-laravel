@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\Concerns;
+namespace Services\Concerns;
 
-use App\Services\Traits\MessageTraitService;
+use Services\Traits\MessageTraitService;
 use Illuminate\Support\Facades\Auth;
 
 abstract class BaseService extends SearchBaseServiceAbstract
