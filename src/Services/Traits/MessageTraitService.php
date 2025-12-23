@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\Traits;
+namespace Services\Traits;
 
 use Illuminate\Contracts\Support\MessageProvider;
 use Illuminate\Support\MessageBag;
